@@ -13,7 +13,7 @@ Hi! I am Garrison, I'm an aspiring Data Analyst based out of Dallas, TX.
 
 📫 How to reach me...
 - Email: garrisonslowe@gmail.com
-- 
+  
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
