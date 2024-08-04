@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garrison Lowe!</h1>
-🚀 About Me
+🚀 ## About Me
 I'm an aspiring Data Analyst based out of Dallas, TX. 
 
 
