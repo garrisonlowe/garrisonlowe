@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Garrison Lowe!</h1>
-<h3 align="center">I am an aspiring Data Analyst.</h3>
+## 🚀 About Me
+I'm an aspiring Data Analyst based out of Dallas, TX. 
 
-- 🌱 I’m currently learning **Python, SQL, Excel, Tableau, and Power BI.**
+👩‍💻 I'm currently working as a Microsoft Dynamics Analyst at EY!
 
-- 📫 How to reach me **garrisonslowe@gmail.com**
+🧠 I'm currently proficient in...
+- Python (Pandas, NumPy, Seaborn, MatPlotLib, etc..)
+- SQL
+- Tableau
+- Excel
+- Power BI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/garrison-lowe-b343831a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/garrison-lowe-b343831a6/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📫 How to reach me...
+- Email: garrisonslowe@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garrisonlowe&show_icons=true&locale=en&layout=compact" alt="garrisonlowe" /></p>
