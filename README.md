@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garrison Lowe!</h1>
 <h3 align="center">I am an aspiring Data Analyst.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garrisonlowe&label=Profile%20views&color=0e75b6&style=flat" alt="garrisonlowe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garrisonlowe" alt="garrisonlowe" /></a> </p>
-
 - 🌱 I’m currently learning **Python, SQL, Excel, Tableau, and Power BI.**
 
 - 📫 How to reach me **garrisonslowe@gmail.com**
