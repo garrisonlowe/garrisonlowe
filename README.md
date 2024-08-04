@@ -2,7 +2,11 @@
 🚀 About Me
 I'm an aspiring Data Analyst based out of Dallas, TX. 
 
+
+
 👩‍💻 I'm currently working as a Microsoft Dynamics Analyst at EY!
+
+
 
 🧠 I'm currently proficient in...
 - Python (Pandas, NumPy, Seaborn, MatPlotLib, etc..)
