@@ -1,10 +1,51 @@
 <!-- Add Google Fonts link -->
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
 
+<!-- Apply JetBrains Mono font to the entire document -->
+<style>
+  body {
+    font-family: 'JetBrains Mono', monospace;
+  }
+</style>
 
 <!-- Banner -->
 [![](./src/banner.png)](#)
 
+<h3 align="left" style = "margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Languages and Tools</h3>
+<hr style="height: .10px; background-color: lightgrey/90; border: none; width: 100%; margin-bottom: 10px;">
+<div>
+    <img align="left" alt="Swift" width="45px" src="src\icons8-python-480.png" />
+    <img align="left" alt="Xcode" width="45px" src="src\icons8-numpy-480 (1).png" />
+    <img align="left" alt="Bash" width="45px" src="src\icons8-pandas-logo-480.png" />
+    <img align="left" alt="Bash" width="45px" src="src\icons8-mysql-480.png" />
+    <img align="left" alt="Swift" width="45px" src="src\icons8-microsoft-sql-server-480.png" />
+    <img align="left" alt="Xcode" width="45px" src="src\icons8-postgres-480 (1).png" />
+    <img align="left" alt="Bash" width="45px" src="src\icons8-excel-480.png" />
+    <img align="left" alt="Bash" width="45px" src="src\icons8-power-bi-2021-480 (1).png" />
+    <img align="left" alt="Swift" width="45px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+    <img align="left" alt="Xcode" width="45px" src="src\icons8-figma-480.png" />
+<div/>
+
+<br/>
+<br/>
+
+
+
+<h3 align="left" style="margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Data Technology Stack</h3>
+<hr style="height: .25px; background-color: lightgrey/90; border: none; width: 100%;">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; margin-top: -15px; list-style: none; padding: 0;">
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src/icons8-python-480.png" alt="Python" width="45" height="45"/><br>Python
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src/icons8-numpy-480 (1).png" alt="NumPy" width="45" height="45"/><br>NumPy
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src/icons8-pandas-logo-480.png" alt="Pandas" width="45" height="45"/><br>Pandas
+  </div>
+  <!-- Add more items here -->
+</div>
 
 <!-- Main Data Stack List -->
 <h3 align="left" style = "margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Data Technology Stack</h3>
