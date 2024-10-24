@@ -15,48 +15,42 @@
 <h3 align="left">🛠️ Main Data Stack</h3>
 
 <div align="left">
-<table style="background-color: transparent; color: white; border-collapse: collapse; border-radius: 15px; overflow: hidden;">
+<table style="background-color: transparent; color: white; border: none; border-radius: 15px; overflow: hidden;">
 
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="src\icons8-python-480.png" alt="Python" width="50" height="50"/><br>Python
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="src\icons8-numpy-480 (1).png" alt="NumPy" width="50" height="50"/><br>NumPy
       </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="80" height="50"/><br>Pandas
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="80" height="50"background:grey/><br>Pandas
       </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SciKit Learn" width="80" height="50"/><br>SciKit Learn
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Pandas" width="80" height="50"background:grey/><br>SciKit Learn
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="src\icons8-mysql-480.png" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
-      <td align="center">
-        <img src="src\icons8-microsoft-sql-server-480.png" alt="SQL Server" width="50" height="50"/><br>SQL Server
+      <td align="center" style="border: none;">
+        <img src="src\icons8-microsoft-sql-server-480.png" alt="MySQL" width="50" height="50"/><br>SQL Server
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="src\icons8-postgres-480 (1).png" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="src\icons8-excel-480.png" alt="Excel" width="50" height="50"/><br>Excel
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="src\icons8-power-bi-2021-480 (1).png" alt="Power BI" width="50" height="50"/><br>Power BI
       </td>
-      <td align="center">
+      <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/><br>Tableau
       </td>
-      <td align="center">
-        <img src="src\icons8-figma-480.png" alt="Figma" width="50" height="50"/><br>Figma
-      </td>
-      <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="50" height="50"/><br>Java
-      </td>
-      <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="50" height="50"/><br>C#
+      <td align="center" style="border: none;">
+        <img src="src\icons8-figma-480.png" alt="Tableau" width="50" height="50"/><br>Figma
       </td>
     </tr>
   </tbody>
