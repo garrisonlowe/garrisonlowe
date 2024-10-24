@@ -11,7 +11,7 @@
 <!-- Banner -->
 [![](./src/banner.png)](#)
 
-<h3 align="left" style = "margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Languages and Tools</h3>
+<!-- <h3 align="left" style = "margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Languages and Tools</h3>
 <hr style="height: .10px; background-color: lightgrey/90; border: none; width: 100%; margin-bottom: 10px;">
 <div>
     <img align="left" alt="Swift" width="45px" src="src\icons8-python-480.png" />
@@ -27,27 +27,27 @@
 <div/>
 
 <br/>
-<br/>
+<br/> -->
 
 
 
 <h3 align="left" style="margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Data Technology Stack</h3>
 <hr style="height: .25px; background-color: lightgrey/90; border: none; width: 100%;">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; margin-top: -15px; list-style: none; padding: 0;">
-  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; margin-top: -15px;">
+  <div style="display: inline-block; text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
     <img src="src/icons8-python-480.png" alt="Python" width="45" height="45"/><br>Python
   </div>
-  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+  <div style="display: inline-block; text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
     <img src="src/icons8-numpy-480 (1).png" alt="NumPy" width="45" height="45"/><br>NumPy
   </div>
-  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+  <div style="display: inline-block; text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
     <img src="src/icons8-pandas-logo-480.png" alt="Pandas" width="45" height="45"/><br>Pandas
   </div>
   <!-- Add more items here -->
 </div>
 
-<!-- Main Data Stack List -->
+<!-- Main Data Stack List
 <h3 align="left" style = "margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Data Technology Stack</h3>
 <hr style="height: .25px; background-color: lightgrey/90; border: none; width: 100%;">
 
@@ -122,7 +122,7 @@
     <img src="src\icons8-power-apps-240.png" alt="PowerApps" width="45" height="45"/><br>PowerApps
   </div>
 
-</div>
+</div> -->
 
 <br/>
 
