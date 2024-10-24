@@ -1,97 +1,86 @@
-<!-- <p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
-</p> -->
+<!-- Add Google Fonts link -->
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
 
+
+<!-- Banner -->
 [![](./src/banner.png)](#)
 
 
+<!-- Main Data Stack List -->
+<h3 align="left" style = "margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Data Technology Stack</h3>
+<hr style="height: .25px; background-color: lightgrey/90; border: none; width: 100%;">
 
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; margin-top: -15px;">
 
-<h3 align="left">🛠️ Main Data Stack</h3>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-python-480.png" alt="Python" width="45" height="45"/><br>Python
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-numpy-480 (1).png" alt="NumPy" width="45" height="45"/><br>NumPy
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-pandas-logo-480.png" alt="Pandas" width="45" height="45"/><br>Pandas
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SciKit Learn" width="45" height="45"/><br>SciKit Learn
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-mysql-480.png" alt="MySQL" width="45" height="45"/><br>MySQL
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-microsoft-sql-server-480.png" alt="SQL Server" width="45" height="45"/><br>SQL Server
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-postgres-480 (1).png" alt="PostgreSQL" width="45" height="45"/><br>PostgreSQL
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-excel-480.png" alt="Excel" width="45" height="45"/><br>Excel
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-power-bi-2021-480 (1).png" alt="Power BI" width="45" height="45"/><br>Power BI
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/><br>Tableau
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-figma-480.png" alt="Figma" width="45" height="45"/><br>Figma
+  </div>
 
-<div align="left">
-<table>
-
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-python-480.png" alt="Python" width="45" height="45"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-numpy-480 (1).png" alt="NumPy" width="45" height="45"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="45" height="45"background:grey/><br>Pandas
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Pandas" width="45" height="45"background:grey/><br>SciKit Learn
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-mysql-480.png" alt="MySQL" width="45" height="45"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-microsoft-sql-server-480.png" alt="MySQL" width="45" height="45"/><br>SQL Server
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-postgres-480 (1).png" alt="PostgreSQL" width="45" height="45"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-excel-480.png" alt="Excel" width="45" height="45"/><br>Excel
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-power-bi-2021-480 (1).png" alt="Power BI" width="45" height="45"/><br>Power BI
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/><br>Tableau
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-figma-480.png" alt="Tableau" width="45" height="45"/><br>Figma
-      </td>
-    </tr>
-  </tbody>
-</table>
 </div>
 
 <br/>
 
 
-<h3 align="left">🛠️ Technologies</h3>
+<h3 align="left" style = "margin-bottom: -10px; font-family: 'JetBrains Mono';">🛠️ Softwares</h3>
+<hr style="height: .25px; background-color: lightgrey/90; border: none; width: 100%;">
 
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; margin-top: -15px;">
 
-<div align="left">
-<table style="background-color: transparent; color: white; border: transparent; border-radius: 15px; overflow: hidden;">
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-vs-code-480.png" alt="VS Code" width="45" height="45"/><br>VS Code
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-visual-studio-480.png" alt="Visual Studio" width="45" height="45"/><br>Visual Studio
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-pycharm-480.png" alt="PyCharm" width="45" height="45"/><br>PyCharm
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-github-480 (1).png" alt="Github" width="45" height="45"/><br>Github
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-azure-240.png" alt="Azure" width="45" height="45"/><br>Azure
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-git-480.png" alt="Git" width="45" height="45"/><br>Git
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-jupyter-240.png" alt="Jupyter" width="45" height="45"/><br>Jupyter
+  </div>
+  <div style="text-align: center; margin: 10px; font-family: 'JetBrains Mono'; font-size: .8em;">
+    <img src="src\icons8-power-apps-240.png" alt="PowerApps" width="45" height="45"/><br>PowerApps
+  </div>
 
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-vs-code-480.png" alt="Python" width="45" height="45"/><br>VS Code
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-pycharm-480.png" alt="Python" width="45" height="45"/><br>PyCharm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-github-480 (1).png" alt="Python" width="45" height="45"/><br>Github
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-azure-240.png" alt="Python" width="45" height="45"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-git-480.png" alt="Python" width="45" height="45"/><br>Git
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-jupyter-240.png" alt="Python" width="45" height="45"/><br>Jupyter
-      </td>
-      <td align="center" style="border: none;">
-        <img src="src\icons8-power-apps-240.png" alt="Tableau" width="45" height="45"/><br>PowerApps
-      </td>
-    </tr>
-  </tbody>
-</table>
 </div>
 
 <br/>
@@ -103,7 +92,7 @@
 <br/>
 
 
-### 📈 GitHub Activity Graph:
+<h3 align="left">🛠️GitHub Activity Graph:</h3>
 
 <table>
     <tr>
