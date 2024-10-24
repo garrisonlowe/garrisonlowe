@@ -15,7 +15,7 @@
 <h3 align="left">🛠️ Main Data Stack</h3>
 
 <div align="left">
-<table style="background-color: transparent; color: white; border-radius: 15px; overflow: hidden;">
+<table style="background-color: transparent; color: white; border: none; border-radius: 15px; overflow: hidden;">
 
   <tbody>
     <tr>
