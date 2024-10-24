@@ -15,42 +15,42 @@
 <h3 align="left">🛠️ Main Data Stack</h3>
 
 <div align="left">
-<table style="background-color: transparent; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table>
 
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="src\icons8-python-480.png" alt="Python" width="50" height="50"/><br>Python
+        <img src="src\icons8-python-480.png" alt="Python" width="45" height="45"/><br>Python
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-numpy-480 (1).png" alt="NumPy" width="50" height="50"/><br>NumPy
+        <img src="src\icons8-numpy-480 (1).png" alt="NumPy" width="45" height="45"/><br>NumPy
       </td>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="80" height="50"background:grey/><br>Pandas
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="45" height="45"background:grey/><br>Pandas
       </td>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Pandas" width="80" height="50"background:grey/><br>SciKit Learn
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Pandas" width="45" height="45"background:grey/><br>SciKit Learn
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-mysql-480.png" alt="MySQL" width="50" height="50"/><br>MySQL
+        <img src="src\icons8-mysql-480.png" alt="MySQL" width="45" height="45"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-microsoft-sql-server-480.png" alt="MySQL" width="50" height="50"/><br>SQL Server
+        <img src="src\icons8-microsoft-sql-server-480.png" alt="MySQL" width="45" height="45"/><br>SQL Server
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-postgres-480 (1).png" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+        <img src="src\icons8-postgres-480 (1).png" alt="PostgreSQL" width="45" height="45"/><br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-excel-480.png" alt="Excel" width="50" height="50"/><br>Excel
+        <img src="src\icons8-excel-480.png" alt="Excel" width="45" height="45"/><br>Excel
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-power-bi-2021-480 (1).png" alt="Power BI" width="50" height="50"/><br>Power BI
+        <img src="src\icons8-power-bi-2021-480 (1).png" alt="Power BI" width="45" height="45"/><br>Power BI
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/><br>Tableau
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/><br>Tableau
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-figma-480.png" alt="Tableau" width="50" height="50"/><br>Figma
+        <img src="src\icons8-figma-480.png" alt="Tableau" width="45" height="45"/><br>Figma
       </td>
     </tr>
   </tbody>
@@ -69,25 +69,25 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="src\icons8-vs-code-480.png" alt="Python" width="50" height="50"/><br>VS Code
+        <img src="src\icons8-vs-code-480.png" alt="Python" width="45" height="45"/><br>VS Code
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-pycharm-480.png" alt="Python" width="50" height="50"/><br>PyCharm
+        <img src="src\icons8-pycharm-480.png" alt="Python" width="45" height="45"/><br>PyCharm
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-github-480 (1).png" alt="Python" width="50" height="50"/><br>Github
+        <img src="src\icons8-github-480 (1).png" alt="Python" width="45" height="45"/><br>Github
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-azure-240.png" alt="Python" width="50" height="50"/><br>Azure
+        <img src="src\icons8-azure-240.png" alt="Python" width="45" height="45"/><br>Azure
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-git-480.png" alt="Python" width="50" height="50"/><br>Git
+        <img src="src\icons8-git-480.png" alt="Python" width="45" height="45"/><br>Git
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-jupyter-240.png" alt="Python" width="50" height="50"/><br>Jupyter
+        <img src="src\icons8-jupyter-240.png" alt="Python" width="45" height="45"/><br>Jupyter
       </td>
       <td align="center" style="border: none;">
-        <img src="src\icons8-power-apps-240.png" alt="Tableau" width="50" height="50"/><br>PowerApps
+        <img src="src\icons8-power-apps-240.png" alt="Tableau" width="45" height="45"/><br>PowerApps
       </td>
     </tr>
   </tbody>
