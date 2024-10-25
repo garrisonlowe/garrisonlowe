@@ -34,10 +34,24 @@
 <!-- Banner -->
 [![](./src/banner.png)](#)
 
+## 🤘 About me
+Hi, I'm Garrison. Aspiring Data Analyst. I love all things data.
 
+#### 📙 Education
+- Texas Tech University
+- B.B.A in Information Technology
+
+#### 📋 Experience
+- Microsoft Dynamics Analyst at EY
+
+#### ✏️ Currently I'm...
+- Working on Data Science/Analytics Projects
+- Practicing Machine Learning
+<br/>
+<br/>
+<br/>
 <!-- Tech stack -->
-<h3 align="left" style="margin-bottom: -10px;">🛠️ Tech Stack</h3>
-<hr style="height: .25px; background-color: lightgrey; border: none; width: 100%;">
+## 📱 Tech Stack
 
 <div>
     <img align="left" alt="Python" title="Python" width="40px" src="src\icons8-python-480.png" />
@@ -61,8 +75,7 @@
 <br/>
 
 <!-- Softwares -->
-<h3 align="left" style="margin-bottom: -10px;">💻 Software</h3>
-<hr style="height: .25px; background-color: lightgrey; border: none; width: 100%;">
+## 💻 Software Tools
 
 <div>
     <img align="left" alt="VS Code" title="VS Code" width="40px" src="src\icons8-vs-code-480.png" />
@@ -82,8 +95,7 @@
 <br/>
 
 <!-- Things im Learning -->
-<h3 align="left" style="margin-bottom: -10px;">🛠️ Things I'm currently learning...</h3>
-<hr style="height: .25px; background-color: lightgrey; border: none; width: 100%;">
+## 📟 Things I'm currently learning...
 
 <div>
   <img align="left" alt="Tensor Flow" title="Tensor Flow" width="40px" src="src\TensorFlow.svg" />
@@ -101,10 +113,10 @@
 <br/>
 
 <!-- Stats -->
-<h3 align="left" style="margin-bottom: -10px;">🔥Stats</h3>
-<hr style="height: .25px; background-color: lightgrey; border: none; width: 100%;">
+## 📈 Stats
 <div align = "center" style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: -20px">
     <img style="height: 200px; width:400px" src="https://github-readme-stats.vercel.app/api?username=garrisonlowe&hide=stars&show_icons=true&card_width=250&theme=transparent&hide_border=true">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Garrison's streak" style="height: 200px; width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=garrisonlowe&theme=transparent&hide_border=true&text_color=02ff99"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garrisonlowe&custom_title=Contributions&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
