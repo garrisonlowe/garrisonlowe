@@ -120,4 +120,4 @@ Hi, I'm Garrison. Aspiring Data Analyst. I love all things data.
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Garrison's streak" style="height: 200px; width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=garrisonlowe&theme=transparent&hide_border=true&text_color=02ff99"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garrisonlowe&custom_title=Contributions&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Garrison's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garrisonlowe&custom_title=Contributions&hide_border=true&theme=github-compact)
