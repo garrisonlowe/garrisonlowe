@@ -73,7 +73,6 @@ Hi, I'm Garrison. Aspiring Data Analyst. I love all things data.
 
 <br/>
 <br/>
-<br/>
 
 <!-- Softwares -->
 ## 💻 Software Tools
