@@ -104,7 +104,7 @@ Hi, I'm Garrison. Aspiring Data Analyst. I love all things data.
     <img align="left" alt="JavaScript" title="JavaScript" width="40px" src="src\icons8-javascript-480.png" />
     <img align="left" alt="MongoDB" title="MongoDB" width="40px" src="src\icons8-mongo-db-96.png" />
     <img align="left" alt="Next.js" title="Next.js" width="40px" src="src\icons8-nextjs-480.png" />
-    <img align="left" alt="AWS" title="Amazon Web Services" width="40px" src="src\AWS.png" />
+    <img align="left" alt="AWS" title="Amazon Web Services " width="40px" src="src\AWS.png" />
 </div>
 
 <br/>
