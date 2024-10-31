@@ -48,7 +48,7 @@ Hi, I'm Garrison. Aspiring Data Analyst. I love all things data.
 - Working on Data Science/Analytics Projects
 - Practicing Machine Learning
 <br/>
-<br/>
+
 
 <!-- Tech stack -->
 ## 📱 Tech Stack
