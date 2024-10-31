@@ -43,6 +43,7 @@ Hi, I'm Garrison. Aspiring Data Analyst. I love all things data.
 
 #### 📋 Experience
 - Microsoft Dynamics Analyst at EY
+- Database Management Intern at NovoDyn Advisors, LLC
 
 #### ✏️ Currently I'm...
 - Working on Data Science/Analytics Projects
